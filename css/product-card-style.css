@@ -92,6 +92,8 @@ p{
 .price{
     font-size: 32px;
     display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .buy-btn{
@@ -101,4 +103,5 @@ p{
     color: #ffffff;
     /*round the corners of the button*/
     border-radius: 10px 
+    
 }
